@@ -9,7 +9,7 @@ Instructions to Run Source Code
 4. Run DataVisualizer/src/spreadsheeteditor/Main.Java to run application
 
 Instructions to Run Executable (Windows)
-1.Clone or downloadthis repository
-2.Navigate to directory containing datavisualizer.jar
+1. Clone or downloadthis repository
+2. Navigate to directory containing datavisualizer.jar
 3. from cmd run :
     java -jar datavisualizer.jar
