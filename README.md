@@ -12,4 +12,4 @@ Instructions to Run Executable (Windows)
 1.Clone or downloadthis repository
 2.Navigate to directory containing datavisualizer.jar
 3. from cmd run :
-    java -jar datavizualizer.jar
+    java -jar datavisualizer.jar
